@@ -1,10 +1,5 @@
 me llamo pablo maldonado
 
 este es un archivo de texto plano de prueba
-lo usare para aprender git
 
-tengo 29 años
-
-hoy hablaremos de mi vida
-
-soy ingeniero...
+mañana me enfocare en mi vida laboral
