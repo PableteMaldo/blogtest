@@ -6,3 +6,5 @@ lo usare para aprender git
 tengo 29 años
 
 hoy hablaremos de mi vida
+
+soy ingeniero...
